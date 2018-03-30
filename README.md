@@ -23,7 +23,7 @@ You can use json-generator to generate test data https://www.json-generator.com
 ```make tests```
 
 You can see the test coverage similar like below:
-
+```
 py.test --cov=src tests/test.py -v
 ======================================================================================================= test session starts =======================================================================================================
 platform darwin -- Python 3.6.4, pytest-3.3.2, py-1.5.2, pluggy-0.6.0 -- /anaconda3/bin/python
@@ -47,5 +47,5 @@ TOTAL                   11      0   100%
 
 
 ==================================================================================================== 4 passed in 0.23 seconds =====================================================================================================
-
+```
 
