@@ -1,7 +1,7 @@
 # temperature-data
 
 ## Assumptions
-The 'id' and 'temperature' field in the temperature data will be mandatory field and will NOT be null, the 'temperature' field will ONLY be a floating number ranging from -30 to 30.
+The 'id' and 'temperature' field in the temperature data will be mandatory field and will NOT be null, the 'temperature' field will ONLY be a floating number and their sums within the max float number
 
 ## Python dependencies
 This tests run on 3.6 or above
