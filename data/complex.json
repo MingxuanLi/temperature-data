@@ -1,0 +1,427 @@
+[
+  {
+    "id": "b",
+    "timestamp": 2000985990,
+    "temperature": 16.78
+  },
+  {
+    "id": "g",
+    "timestamp": 1013005257,
+    "temperature": 4.76
+  },
+  {
+    "id": "f",
+    "timestamp": 6261177466,
+    "temperature": 9.37
+  },
+  {
+    "id": "d",
+    "timestamp": 6829000399,
+    "temperature": 25.86
+  },
+  {
+    "id": "f",
+    "timestamp": 4299010454,
+    "temperature": 22.6
+  },
+  {
+    "id": "e",
+    "timestamp": 4341590552,
+    "temperature": 19.91
+  },
+  {
+    "id": "a",
+    "timestamp": 2956751872,
+    "temperature": 12.2
+  },
+  {
+    "id": "b",
+    "timestamp": 3970807290,
+    "temperature": 24.96
+  },
+  {
+    "id": "d",
+    "timestamp": 7470759354,
+    "temperature": 29.81
+  },
+  {
+    "id": "c",
+    "timestamp": 6641828055,
+    "temperature": 8.88
+  },
+  {
+    "id": "e",
+    "timestamp": 7112232204,
+    "temperature": 17.71
+  },
+  {
+    "id": "c",
+    "timestamp": 5036342550,
+    "temperature": 23.06
+  },
+  {
+    "id": "d",
+    "timestamp": 5408082171,
+    "temperature": 9.18
+  },
+  {
+    "id": "d",
+    "timestamp": 4152763892,
+    "temperature": 4.68
+  },
+  {
+    "id": "g",
+    "timestamp": 4426809497,
+    "temperature": 15.68
+  },
+  {
+    "id": "c",
+    "timestamp": 7475687005,
+    "temperature": 10.48
+  },
+  {
+    "id": "a",
+    "timestamp": 9335974781,
+    "temperature": 19.15
+  },
+  {
+    "id": "a",
+    "timestamp": 7105523350,
+    "temperature": 13.91
+  },
+  {
+    "id": "a",
+    "timestamp": 2665700143,
+    "temperature": 13.04
+  },
+  {
+    "id": "g",
+    "timestamp": 1666605414,
+    "temperature": 22
+  },
+  {
+    "id": "c",
+    "timestamp": 1169626765,
+    "temperature": 20.1
+  },
+  {
+    "id": "a",
+    "timestamp": 9280084204,
+    "temperature": 6.97
+  },
+  {
+    "id": "d",
+    "timestamp": 4876201561,
+    "temperature": 2.91
+  },
+  {
+    "id": "g",
+    "timestamp": 8036965521,
+    "temperature": 23.96
+  },
+  {
+    "id": "f",
+    "timestamp": 1377956042,
+    "temperature": 11.16
+  },
+  {
+    "id": "f",
+    "timestamp": 2990600340,
+    "temperature": 5.72
+  },
+  {
+    "id": "d",
+    "timestamp": 3992458726,
+    "temperature": 26.98
+  },
+  {
+    "id": "b",
+    "timestamp": 6238860802,
+    "temperature": 20.36
+  },
+  {
+    "id": "b",
+    "timestamp": 5663617923,
+    "temperature": 25.56
+  },
+  {
+    "id": "c",
+    "timestamp": 7051077732,
+    "temperature": 3.35
+  },
+  {
+    "id": "e",
+    "timestamp": 7399653191,
+    "temperature": 11.07
+  },
+  {
+    "id": "d",
+    "timestamp": 2804808707,
+    "temperature": 22.9
+  },
+  {
+    "id": "d",
+    "timestamp": 1376532481,
+    "temperature": 6.1
+  },
+  {
+    "id": "d",
+    "timestamp": 6309967305,
+    "temperature": 7.79
+  },
+  {
+    "id": "f",
+    "timestamp": 1791388919,
+    "temperature": 0.43
+  },
+  {
+    "id": "f",
+    "timestamp": 1387354599,
+    "temperature": 2.15
+  },
+  {
+    "id": "d",
+    "timestamp": 5866707572,
+    "temperature": 0.17
+  },
+  {
+    "id": "e",
+    "timestamp": 9205186966,
+    "temperature": 29.56
+  },
+  {
+    "id": "d",
+    "timestamp": 1962923460,
+    "temperature": 23.08
+  },
+  {
+    "id": "g",
+    "timestamp": 6788854898,
+    "temperature": 29.45
+  },
+  {
+    "id": "b",
+    "timestamp": 9222480468,
+    "temperature": 21.31
+  },
+  {
+    "id": "d",
+    "timestamp": 8120488088,
+    "temperature": 19.61
+  },
+  {
+    "id": "b",
+    "timestamp": 4235662714,
+    "temperature": 5.11
+  },
+  {
+    "id": "d",
+    "timestamp": 2167734540,
+    "temperature": 25.22
+  },
+  {
+    "id": "b",
+    "timestamp": 6685329143,
+    "temperature": 15.3
+  },
+  {
+    "id": "f",
+    "timestamp": 9009314418,
+    "temperature": 26.89
+  },
+  {
+    "id": "e",
+    "timestamp": 6824041525,
+    "temperature": 18.33
+  },
+  {
+    "id": "d",
+    "timestamp": 2156236699,
+    "temperature": 27.93
+  },
+  {
+    "id": "e",
+    "timestamp": 8259245752,
+    "temperature": 17.34
+  },
+  {
+    "id": "c",
+    "timestamp": 7645337905,
+    "temperature": 2.69
+  },
+  {
+    "id": "d",
+    "timestamp": 5919031465,
+    "temperature": 1.02
+  },
+  {
+    "id": "b",
+    "timestamp": 9575499379,
+    "temperature": 8.96
+  },
+  {
+    "id": "c",
+    "timestamp": 1415074143,
+    "temperature": 24.13
+  },
+  {
+    "id": "b",
+    "timestamp": 2089782887,
+    "temperature": 24.71
+  },
+  {
+    "id": "f",
+    "timestamp": 3505338693,
+    "temperature": 27.98
+  },
+  {
+    "id": "c",
+    "timestamp": 6941766556,
+    "temperature": 14.79
+  },
+  {
+    "id": "f",
+    "timestamp": 2623196404,
+    "temperature": 10.34
+  },
+  {
+    "id": "d",
+    "timestamp": 8483905516,
+    "temperature": 26.49
+  },
+  {
+    "id": "a",
+    "timestamp": 1313115968,
+    "temperature": 17.3
+  },
+  {
+    "id": "f",
+    "timestamp": 2870198239,
+    "temperature": 14.34
+  },
+  {
+    "id": "c",
+    "timestamp": 1204092019,
+    "temperature": 28.76
+  },
+  {
+    "id": "c",
+    "timestamp": 2189686149,
+    "temperature": 13.27
+  },
+  {
+    "id": "a",
+    "timestamp": 8267909795,
+    "temperature": 16
+  },
+  {
+    "id": "e",
+    "timestamp": 1292462465,
+    "temperature": 4.44
+  },
+  {
+    "id": "e",
+    "timestamp": 2996103074,
+    "temperature": 4.07
+  },
+  {
+    "id": "f",
+    "timestamp": 6614966951,
+    "temperature": 1.61
+  },
+  {
+    "id": "g",
+    "timestamp": 4748591860,
+    "temperature": 16.03
+  },
+  {
+    "id": "b",
+    "timestamp": 8152483553,
+    "temperature": 25.82
+  },
+  {
+    "id": "b",
+    "timestamp": 1149940785,
+    "temperature": 17.75
+  },
+  {
+    "id": "e",
+    "timestamp": 2985062538,
+    "temperature": 9.19
+  },
+  {
+    "id": "d",
+    "timestamp": 8903522262,
+    "temperature": 16.61
+  },
+  {
+    "id": "a",
+    "timestamp": 3096815717,
+    "temperature": 17.75
+  },
+  {
+    "id": "d",
+    "timestamp": 6771465665,
+    "temperature": 17.43
+  },
+  {
+    "id": "c",
+    "timestamp": 3069958565,
+    "temperature": 25.14
+  },
+  {
+    "id": "a",
+    "timestamp": 5766914108,
+    "temperature": 4.75
+  },
+  {
+    "id": "e",
+    "timestamp": 3762249878,
+    "temperature": 2.11
+  },
+  {
+    "id": "f",
+    "timestamp": 6637343620,
+    "temperature": 4.21
+  },
+  {
+    "id": "b",
+    "timestamp": 4890459125,
+    "temperature": 14.42
+  },
+  {
+    "id": "e",
+    "timestamp": 2707832838,
+    "temperature": 26.26
+  },
+  {
+    "id": "b",
+    "timestamp": 7187709577,
+    "temperature": 17.83
+  },
+  {
+    "id": "b",
+    "timestamp": 2779423493,
+    "temperature": 9.42
+  },
+  {
+    "id": "f",
+    "timestamp": 5858698398,
+    "temperature": 27.91
+  },
+  {
+    "id": "d",
+    "timestamp": 7480779313,
+    "temperature": 24.82
+  },
+  {
+    "id": "g",
+    "timestamp": 1720313108,
+    "temperature": 25.22
+  },
+  {
+    "id": "b",
+    "timestamp": 5597175177,
+    "temperature": 17.85
+  }
+]
