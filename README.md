@@ -4,7 +4,7 @@
 The 'id' and 'temperature' field in the temperature data will be mandatory field and will NOT be null, the 'temperature' field will ONLY be a floating number and their sums within the max float number
 
 ## Python dependencies
-This tests run on 3.6 or above
+This tests run on 3.6 or above, please be aware of that python 3 use [banker's rounding](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html#bankers-rounding) so the rounding might be different if you run this on python 2.
 
 ## Init Project
 ```make init```
