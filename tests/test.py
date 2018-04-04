@@ -1,6 +1,5 @@
 import json
 import unittest
-import numpy as np
 from src import temperature
 
 class TestTemperature(unittest.TestCase):
@@ -13,6 +12,22 @@ class TestTemperature(unittest.TestCase):
             self.sampleData = json.load(json_data)
         with open('./data/complex.json', 'r') as json_data:
             self.complexData = json.load(json_data)
+
+    def test_average(self):
+        result = temperature.average([])
+        self.assertEqual(result, None)
+        result = temperature.average([0.1, 0.2])
+        self.assertEqual(round(result, 2), 0.15)
+        result = temperature.average([0.1, 0.2, 0.3, 0.4, 0.5])
+        self.assertEqual(round(result, 2), 0.3)
+
+    def test_median(self):
+        result = temperature.median([])
+        self.assertEqual(result, None)
+        result = temperature.average([0.1, 0.2])
+        self.assertEqual(round(result, 2), 0.15)
+        result = temperature.average([0.1, 0.2, 0.3, 0.4, 0.5])
+        self.assertEqual(round(result, 2), 0.3)
 
     def test_empty(self):
         temperatures = temperature.calc_temperature_stats(self.emptyData)
@@ -32,8 +47,8 @@ class TestTemperature(unittest.TestCase):
         b = [temp for temp in temperatures if temp['id'] == 'b'][0]
         c = [temp for temp in temperatures if temp['id'] == 'c'][0]
 
-        self.assertEqual(a['median'], 3.64)
-        self.assertEqual(a['average'], 3.78)
+        self.assertEqual(a['median'], 3.65)
+        self.assertEqual(a['average'], 3.77)
         self.assertEqual(a['mode'], [3.53])
 
         self.assertEqual(b['median'], 4.14)
