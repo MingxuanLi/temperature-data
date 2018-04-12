@@ -13,9 +13,17 @@ class TestTemperature(unittest.TestCase):
         with open('./data/complex.json', 'r') as json_data:
             self.complexData = json.load(json_data)
 
-    def test_average(self):
+    # Should return None for the empty list
+    def test_empty_list(self):
         result = temperature.average([])
         self.assertEqual(result, None)
+
+    # Should return average
+    def test_simple(self):
+        result = temperature.average([0.1])
+        self.assertEqual(round(result, 2), 0.1)
+
+    def test_average(self):
         result = temperature.average([0.1, 0.2])
         self.assertEqual(round(result, 2), 0.15)
         result = temperature.average([0.1, 0.2, 0.3, 0.4, 0.5])
